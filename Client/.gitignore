@@ -1,0 +1,10 @@
+package-info.java
+out
+target
+.idea
+testWriter.xml
+people.xml
+/collection.xml
+/src/main/resources/log4j2.xml
+/src/main/java/Test.java
+/clientLog.log

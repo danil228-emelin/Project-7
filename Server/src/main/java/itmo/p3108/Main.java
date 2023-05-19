@@ -1,9 +1,7 @@
 package itmo.p3108;
 
 import itmo.p3108.bd.PrepareServer;
-import itmo.p3108.bd.PsqlStorage;
 import itmo.p3108.util.Executor;
-import itmo.p3108.util.ShutDownThread;
 import itmo.p3108.util.UDPReceiver;
 import itmo.p3108.util.UDPSender;
 import lombok.extern.slf4j.Slf4j;

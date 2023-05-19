@@ -113,8 +113,7 @@ public class UsersDAOImpl implements DAO<String> {
     }
 
     private void deleteElements(Connection connection) {
-        String delete = "delete\n" +
-                "from users;";
+        String delete = "delete\n" + "from users;";
         try (var statement = connection.createStatement()) {
             statement.execute(delete);
         } catch (SQLException e) {

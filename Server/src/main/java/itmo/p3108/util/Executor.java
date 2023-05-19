@@ -40,6 +40,7 @@ public class Executor {
                 }
             }, () -> log.error("message is incorrect,Can't deserialize"));
         }, () -> log.error("message is null"));
+
         CompletableFuture.runAsync(serverReply, POOL);
 
     }

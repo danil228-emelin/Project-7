@@ -46,8 +46,10 @@ public class SerializeObject {
             messageServer.setCommand(command);
             if (port == 0) {
                 log.info("port is 0");
+                log.info("port is " + clientPort);
                 messageServer.setPort(clientPort);
             } else {
+                log.info("port is" + port);
                 messageServer.setPort(port);
             }
             messageServer.setToken(Users.getUser().getToken());

@@ -65,17 +65,15 @@ public class LogIn implements OneArgument<Users> {
         users = parameter;
     }
 
-    //todo вернуть
+
     @Override
     public Optional<Command> prepare(String argument) {
         System.out.println("Enter login");
-//        String log = UserReader.read();
-        String log = "test1";
+        String log = UserReader.read();
         Console console = System.console();
         users.setLogin(log);
         System.out.println("Enter password");
-        String password = "1";
-//        String password = Arrays.toString(console.readPassword());
+        String password = Arrays.toString(console.readPassword());
         users.setPassword(password);
         return Optional.of(this);
     }

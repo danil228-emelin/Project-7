@@ -1,0 +1,92 @@
+2023-05-18 22:02:39,905 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:02:40,003 INFO o.r.Reflections [main] Reflections took 94 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:02:40,040 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:02:51,422 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:02:51,423 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:03:02,333 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:03:02,333 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:03:51,724 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:03:51,779 INFO o.r.Reflections [main] Reflections took 52 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:03:51,813 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:04:07,202 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:04:07,204 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:04:18,107 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:04:18,107 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:04:40,096 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:04:40,169 INFO o.r.Reflections [main] Reflections took 70 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:04:40,204 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:05:51,203 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:05:51,261 INFO o.r.Reflections [main] Reflections took 54 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:05:51,291 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:06:01,306 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:06:01,308 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:06:12,215 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:06:12,215 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:06:30,347 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:06:30,409 INFO o.r.Reflections [main] Reflections took 59 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:06:30,442 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:06:36,846 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:06:36,912 INFO o.r.Reflections [main] Reflections took 61 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:06:36,954 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:07:32,862 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:07:32,929 INFO o.r.Reflections [main] Reflections took 64 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:07:32,968 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:08:07,260 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:08:07,326 INFO o.r.Reflections [main] Reflections took 63 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:08:07,359 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:08:16,280 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:08:16,345 INFO o.r.Reflections [main] Reflections took 61 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:08:16,378 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:08:24,258 INFO i.p.u.SerializeObject [main] serialize command sign_in 
+2023-05-18 22:08:24,259 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:08:32,266 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:08:32,331 INFO o.r.Reflections [main] Reflections took 61 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:08:32,358 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:08:35,206 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:08:35,206 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:08:35,238 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:08:35,240 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:08:46,157 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:08:46,157 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:09:12,977 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:09:13,036 INFO o.r.Reflections [main] Reflections took 55 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:09:13,070 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:09:26,089 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:09:26,139 INFO o.r.Reflections [main] Reflections took 47 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:09:26,169 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:09:59,200 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:09:59,252 INFO o.r.Reflections [main] Reflections took 49 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:09:59,287 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:10:02,171 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:10:02,172 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:10:13,091 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:10:13,091 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:10:50,014 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:10:50,073 INFO o.r.Reflections [main] Reflections took 55 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:10:50,108 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:10:58,034 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:10:58,036 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:11:08,951 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:11:08,951 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:13:13,884 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:13:13,946 INFO o.r.Reflections [main] Reflections took 58 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:13:13,980 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:13:44,980 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:13:44,982 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:13:55,875 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:13:55,876 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-18 22:17:20,139 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-18 22:17:20,196 INFO o.r.Reflections [main] Reflections took 55 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-18 22:17:20,230 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-18 22:17:22,881 INFO i.p.u.SerializeObject [main] port is4445 
+2023-05-18 22:17:22,888 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-18 22:17:22,890 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-18 22:17:33,817 ERROR i.p.u.ServerChanel [main] connection with server lost 
+2023-05-18 22:17:33,817 ERROR i.p.u.Executor [main] Connection with server lost,can't authorize now 
+2023-05-19 08:36:37,079 DEBUG o.r.Reflections [main] going to scan these urls: [file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Client/target/classes/, file:/D:/IntelliJ%20IDEA%202022.2.3/Lab7/Common/target/classes/] 
+2023-05-19 08:36:37,145 INFO o.r.Reflections [main] Reflections took 50 ms to scan 2 urls, producing 5 keys and 24 values  
+2023-05-19 08:36:37,179 INFO i.p.u.ShutDownThread [main] +1 thread executed after main 
+2023-05-19 08:37:02,267 INFO i.p.u.SerializeObject [main] port is9052 
+2023-05-19 08:37:02,273 INFO i.p.u.SerializeObject [main] serialize command log_in 
+2023-05-19 08:37:02,274 INFO i.p.u.ConnectionServerState [main] Message sent to server,waiting for reply 
+2023-05-19 08:37:02,385 ERROR i.p.u.Executor [main] error:User with login  doesn't exist 

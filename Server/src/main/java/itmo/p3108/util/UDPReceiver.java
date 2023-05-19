@@ -36,6 +36,7 @@ public class UDPReceiver {
             socket.setSoTimeout(0);
             socket.receive(packet);
             log.info("receive message");
+
             return Optional.of(packet.getData());
         } catch (IOException exception) {
             log.error(exception.toString());

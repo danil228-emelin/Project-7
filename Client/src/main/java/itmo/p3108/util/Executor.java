@@ -26,7 +26,7 @@ public class Executor {
 
         command.ifPresentOrElse(
                 command1 -> {
-                    boolean serializedObject = SerializeObject.serialize(command1, serverChanel.getServerPort());
+                    boolean serializedObject = SerializeObject.serialize(command1, serverChanel.getClientPort());
                     consumer.accept(serializedObject);
                 }, () -> {
                     Optional<String> reply = serverChanel.sendAndReceive();

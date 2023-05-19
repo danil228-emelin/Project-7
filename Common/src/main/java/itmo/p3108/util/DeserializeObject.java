@@ -23,6 +23,7 @@ public class DeserializeObject {
             return Optional.of(object);
         } catch (IOException | ClassNotFoundException exception) {
             log.error("deserialize:" + exception.getMessage());
+            System.exit(-1);
             return Optional.empty();
         }
     }

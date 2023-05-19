@@ -21,7 +21,6 @@ public class ServerChanel {
     public ServerChanel(int serverPort) {
         this.state = new ConnectionServerState();
         this.serverPort = serverPort;
-        SerializeObject.setClientPort(serverPort);
         while (true) {
             try {
                 clientPort = (int) (8000 + Math.random() * 2000);
@@ -30,6 +29,7 @@ public class ServerChanel {
             } catch (IllegalArgumentException ignored) {
             }
         }
+        SerializeObject.setClientPort(clientPort);
         this.udpSender = new UDPSender(serverPort);
     }
 
